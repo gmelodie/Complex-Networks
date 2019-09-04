@@ -2,3 +2,4 @@ networkx
 ipykernel
 numpy
 matplotlib
+osmnx
