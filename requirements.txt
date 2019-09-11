@@ -2,4 +2,5 @@ networkx
 ipykernel
 numpy
 matplotlib
+seaborn
 osmnx
