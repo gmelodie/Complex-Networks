@@ -14,3 +14,9 @@ wget http://konect.uni-koblenz.de/downloads/tsv/ca-AstroPh.tar.bz2
 
 # C elegans neural network
 wget http://www-personal.umich.edu/~mejn/netdata/celegansneural.zip
+
+# C elegans neural network (2004)
+http://interactome.dfci.harvard.edu/C_elegans/graphs/sequence_edges/wi2004.txt
+
+# C elegans neural network (2007)
+http://interactome.dfci.harvard.edu/C_elegans/graphs/sequence_edges/wi2007.txt
