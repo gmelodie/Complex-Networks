@@ -4,3 +4,5 @@ numpy
 matplotlib
 seaborn
 osmnx
+python-louvain
+sklearn
